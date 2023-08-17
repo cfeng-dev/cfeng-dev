@@ -1,6 +1,7 @@
 # ⛹️ Chin-I Feng
 
 I'm originally from Taiwan and am currently pursuing my studies in electrical engineering in Germany. I have a passion for programming and finding solutions, because resolving problems and overcoming challenges bring me a deep sense of fulfillment and a lot of fun.
+- 📫 How to reach me **c.feng@outlook.de**
 
 #
 
