@@ -1,6 +1,6 @@
 # ⛹️ Chin-I Feng
 
-I'm currently studying Electrical and Information Engineering in Germany. Originally, I'm from Taiwan. One of my passions is programming.
+I'm originally from Taiwan and am currently pursuing my studies in electrical engineering in Germany. I have a passion for programming, as deriving solutions and overcoming challenges bring me a deep sense of fulfillment.
 
 #
 
