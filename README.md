@@ -2,8 +2,8 @@
 
 I'm originally from Taiwan and am currently pursuing my studies in electrical engineering with a specialization in IT in Germany. I have a passion for programming and finding solutions, because resolving problems and overcoming challenges bring me a sense of fulfillment and a lot of fun.
 - 🔭 I’m currently working on [WindTracker_IoT](https://github.com/cfeng-dev/WindTracker_IoT)
-- 📫 How to reach: me **c.feng@outlook.de**
-- ⚡ Fun fact: I love cooking up new recipes and unwinding with a good movie!
+- 📫 How to reach me **c.feng@outlook.de**
+- ⚡ Fun fact **I love cooking up new recipes and unwinding with a good movie!**
 
 #
 
