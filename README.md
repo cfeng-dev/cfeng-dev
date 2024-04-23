@@ -6,6 +6,7 @@ I'm originally from Taiwan and am currently pursuing my studies in electrical en
 - 📫 How to reach me: **c.feng@outlook.de**
 - ⚡ Fun fact: **I love cooking up new recipes and unwinding with a good movie!**
 
+
 ### Languages
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -15,7 +16,6 @@ I'm originally from Taiwan and am currently pursuing my studies in electrical en
 <img align="left" alt="MATLAB" width="30px" height="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<br />
 
 ### Tools
 
@@ -31,4 +31,3 @@ I'm originally from Taiwan and am currently pursuing my studies in electrical en
 <img align="left" alt="scikit_learn" width="30px" height="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<br />
