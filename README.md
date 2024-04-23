@@ -19,7 +19,6 @@ I'm originally from Taiwan and am currently pursuing my studies in electrical en
 
 <br />
 <br />
----
 
 ### Tools
 
@@ -35,3 +34,5 @@ I'm originally from Taiwan and am currently pursuing my studies in electrical en
 <img align="left" alt="scikit_learn" width="30px" height="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="VS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+
+<br />
