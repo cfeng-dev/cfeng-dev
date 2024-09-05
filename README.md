@@ -1,10 +1,10 @@
 # ⛹️ Chin-I Feng
 
-I'm originally from Taiwan and am currently pursuing my studies in electrical engineering with an IT specialization in Germany.
+I'm originally from Taiwan and am currently pursuing my Master's in electrical engineering in Germany.
 - 🔭 I’m currently working on [**MQTT_WebApp**](https://github.com/cfeng-dev/MQTT_WebApp)
 - 🌱 I’m currently learning **time series forecasting for electricity consumption with Python**
 - 📫 How to reach me: **c.feng@outlook.de**
-- ⚡ Fun fact: **I love cooking up new recipes and unwinding with a good movie!**
+- ⚡ Fun fact: **I love cooking up new recipes and making them spicy!**
 
 #
 
@@ -33,6 +33,7 @@ I'm originally from Taiwan and am currently pursuing my studies in electrical en
 <img align="left" alt="numpy" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 <img align="left" alt="matplotlib" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="scikit_learn" width="30px" height="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="pytorch" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Arduino" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="VS" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 
